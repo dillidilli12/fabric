@@ -5,3 +5,6 @@ SELECT
 FROM [Person_Person] p
 INNER JOIN [HR.Employee] e 
     ON p.BusinessEntityID = e.BusinessEntityID
+
+
+
