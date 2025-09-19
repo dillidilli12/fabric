@@ -1,3 +1,5 @@
 {
-    "dbt.dbtIntegration": "cloud"
+    "dbt.dbtIntegration": "cloud",
+    "dbt.queryLimit": 501,
+    "dbt.perspectiveTheme": "Vintage"
 }
